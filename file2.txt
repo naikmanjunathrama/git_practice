@@ -1,0 +1,2 @@
+hello this is file 2
+you are typing in line 2 of file2
